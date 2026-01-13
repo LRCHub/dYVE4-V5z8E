@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "THE FUTURE DAYBREAK (映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌)",
+  "base_artist": "BACK-ON × FLOW",
+  "createdAt": "2026-01-13T22:36:07.952990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "THE FUTURE DAYBREAK - (映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌)",
+      "artist": "BACK-ON, FLOW",
+      "has_synced": true,
+      "path": "select/01_THE_FUTURE_DAYBREAK_-_(映画_『仮面ライダーガッチャード_ザ・フューチャー・デイブレイク』主題歌)_BACK-ON,_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "THE FUTURE DAYBREAK Movie Edit (映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌)",
+      "artist": "BACK-ON × FLOW",
+      "has_synced": true,
+      "path": "select/02_THE_FUTURE_DAYBREAK_Movie_Edit_(映画_『仮面ライダーガッチャード_ザ・フューチャー・デイブレイク』主題歌)_BACK-ON_×_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "THE FUTURE DAYBREAK (映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌)",
+      "artist": "BACK-ON × FLOW",
+      "has_synced": true,
+      "path": "select/03_THE_FUTURE_DAYBREAK_(映画_『仮面ライダーガッチャード_ザ・フューチャー・デイブレイク』主題歌)_BACK-ON_×_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "THE FUTURE DAYBREAK (映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌) - THE FUTURE DAYBREAK (Theme of The Movie KAMEN RIDER GOTCHARD THE FUTURE DAYBREAK)",
+      "artist": "BACK-ON × FLOW",
+      "has_synced": true,
+      "path": "select/04_THE_FUTURE_DAYBREAK_(映画_『仮面ライダーガッチャード_ザ・フューチャー・デイブレイク』主題歌)_-_THE_FUTURE_DAYBREAK_BACK-ON_×_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "THE FUTURE DAYBREAK - (映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌)",
+      "artist": "BACK-ON",
+      "has_synced": true,
+      "path": "select/05_THE_FUTURE_DAYBREAK_-_(映画_『仮面ライダーガッチャード_ザ・フューチャー・デイブレイク』主題歌)_BACK-ON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE FUTURE DAYBREAK",
+      "artist": "BACK-ON × FLOW",
+      "has_synced": false,
+      "path": "select/pl_01_THE_FUTURE_DAYBREAK_BACK-ON_×_FLOW.txt"
+    }
+  ]
+}
